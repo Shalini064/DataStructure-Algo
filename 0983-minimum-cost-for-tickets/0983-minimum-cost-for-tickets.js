@@ -32,3 +32,6 @@ var mincostTickets = function(days, costs) {
   return costArr[costArr.length - 1];
 
 };
+
+
+//Example for a costArr : [ 0, 2, 2, 2, 4, 4, 6, 7, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 11 ]
